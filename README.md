@@ -1,1 +1,7 @@
-# binance-realtime-app
+# Binance Real-Time App
+
+Get data from Binance.
+
+## license
+
+[MIT](./LICENSE)
