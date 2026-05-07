@@ -1,0 +1,17 @@
+{
+  "name": "binance-realtime-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Realtime Binance klines app with Socket.io and Redis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "NODE_ENV=development node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ioredis": "^5.4.1",
+    "socket.io": "^4.8.1",
+    "ws": "^8.18.0"
+  }
+}
